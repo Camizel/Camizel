@@ -2,7 +2,7 @@
 
 ¡Hola! Soy Camila, una kinesióloga apasionada por la tecnología y el aprendizaje continuo. Actualmente estoy dando mis primeros pasos en el mundo de la programación.
 
-En mi perfil de GitHub podrás encontrar algunos de mis primeros proyectos relacionados con la programación, en los que estoy trabajando para mejorar mis habilidades y aprender nuevas tecnologías. Me interesa especialmente el desarrollo web y la creación de aplicaciones móviles enfocadas en la mejora de la calidad de vida de las personas.
+En mi perfil de GitHub podrás encontrar algunos de mis primeros proyectos relacionados con la programación, en los que estoy trabajando para mejorar mis habilidades y aprender nuevas tecnologías. Me interesa especialmente irme por el lado del frontend.
 
 Además de mi formación en kinesiología, he completado algunos cursos de programación en línea y he asistido a workshops y conferencias sobre tecnología y emprendimiento. Me considero una persona curiosa, perseverante y con una actitud proactiva hacia el aprendizaje y el trabajo en equipo.
 
