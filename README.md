@@ -1,3 +1,6 @@
+![Descripción de la imagen](https://www.canva.com/design/DAFlu3_pgFg/1qe3Pj8ifilMkdwRo9-DZA/view?utm_content=DAFlu3_pgFg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+
 ### ✨Hola a todos ✨
 
 ¡Hola! Soy Camila, una kinesióloga apasionada por la tecnología y el aprendizaje continuo. Actualmente estoy dando mis primeros pasos en el mundo de la programación.
