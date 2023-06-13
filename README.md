@@ -1,5 +1,3 @@
-[![image.png](https://i.postimg.cc/BZYzqmrj/image.png)](https://postimg.cc/Z0NHHxKm)
-
 ### ✨Hola a todos ✨
 
 ¡Hola! Soy Camila, una kinesióloga apasionada por la tecnología y el aprendizaje continuo. Actualmente estoy dando mis primeros pasos en el mundo de la programación.
