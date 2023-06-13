@@ -1,4 +1,4 @@
-[![image.png](https://i.postimg.cc/BZYzqmrj/image.png)](https://postimg.cc/Z0NHHxKm)
+[![Banner-de-Linked-In-Sencillo-Tecnolog-a.png](https://i.postimg.cc/0jBg1fjv/Banner-de-Linked-In-Sencillo-Tecnolog-a.png)](https://postimg.cc/MfV3y113)
 
 
 ### ✨Hola a todos ✨
