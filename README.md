@@ -11,7 +11,7 @@ Además de mi formación en kinesiología, he completado algunos cursos de progr
 Si tienes alguna pregunta sobre mis proyectos o quieres colaborar en alguno de ellos, ¡no dudes en contactarme! Estoy siempre abierta a nuevas ideas y oportunidades de aprendizaje.
 
 
-Discord: Camizel#5319
+Discord: Camizel#777
 
 
 
